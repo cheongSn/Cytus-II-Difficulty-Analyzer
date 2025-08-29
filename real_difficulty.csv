@@ -1,0 +1,699 @@
+﻿id,role_id,song_name,diff,file_name
+1,paff001,Body Talk,11.6,paff001_000+chaos
+2,paff001,Survive,10.2,paff001_001+chaos
+3,paff001,Survive <GLITCH>,12.2,paff001_001+glitch
+4,paff001,Bullet Waiting for Me (James Landino remix),11.8,paff001_002+chaos
+5,paff001,Bullet Waiting for Me (James Landino remix) <GLITCH>,12.4,paff001_002+glitch
+6,paff001,KANATA,9,paff001_003+chaos
+7,paff001,KANATA <GLITCH>,11.8,paff001_003+glitch
+8,paff001,Fight Another Day (Andy Tunstall remix),10.2,paff001_004+chaos
+9,paff001,Baptism of Fire (CliqTrack remix),12,paff001_005+chaos
+10,paff001,Baptism of Fire (CliqTrack remix) <GLITCH>,12.2,paff001_005+glitch
+11,paff001,Fireflies (Funk Fiction remix),9.6,paff001_006+chaos
+12,paff001,Gravity,12.8,paff001_007+chaos
+13,paff001,Gravity <GLITCH>,13.8,paff001_007+glitch
+14,paff001,Re:Boost,11.4,paff001_008+chaos
+15,paff001,Re:Boost <GLITCH>,13.2,paff001_008+glitch
+16,paff001,Green Hope,12.2,paff001_009+chaos
+17,paff001,Under the same sky,8.8,paff001_010+chaos
+18,paff001,Winter Games,10,paff001_012+chaos
+19,paff001,New World,10,paff001_013+chaos
+20,paff001,SECRET;WEAPON,13.8,paff001_014+chaos
+21,paff001,Lilac for Anabel,12.6,paff001_015+chaos
+22,paff001,Who Am I?,10.8,paff001_016+chaos
+23,paff001,Who Am I? <GLITCH>,13.2,paff001_016+glitch
+24,paff001,More Than Diamond,9.2,paff001_017+chaos
+25,paff001,Blossoms for Life,12,paff001_018+chaos
+26,paff001,Recall,9.2,paff001_024+chaos
+27,paff001,Sleeping Beast,9.4,paff001_027+chaos
+28,paff001,Streetlights (ft. CassieGemini),12,paff001_030+chaos
+29,paff001,Save me Now,12,paff001_031+chaos
+30,paff001,illMenate,13.2,paff001_032+chaos
+31,paff001,Mirror (ft. tiki),11.2,paff001_038+chaos
+32,paff001,So In Love,11.6,paff001_011+chaos
+33,paff001,Cityscape,12.4,paff001_019+chaos
+34,paff001,Favorites,11,paff001_020+chaos
+35,paff001,Make Me Alive,9.6,paff001_021+chaos
+36,paff001,Light up my love!!,11.8,paff001_022+chaos
+37,paff001,Super attractor,13.8,paff001_023+chaos
+38,paff001,I Wish You Were Mine,12.2,paff001_025+chaos
+39,paff001,PIXIE DUST,11.2,paff001_026+chaos
+40,paff001,Inspiration,10.6,paff001_028+chaos
+41,paff001,No-Effected World,9.6,paff001_029+chaos
+42,paff001,Orison,13.6,paff001_033+chaos
+43,paff001,So...,9.2,paff001_034+chaos
+44,paff001,Eutopia,11,paff001_035+chaos
+45,paff001,Fly With Love,9.8,paff001_036+chaos
+46,paff001,変身 feat. Dirty Androids,12.2,paff001_037+chaos
+47,paff001,favorite color ft. マナ,11,paff001_039+chaos
+48,neko001,The Spark,12,neko001_001+chaos
+49,neko001,The Spark <GLITCH>,13.6,neko001_001+glitch
+50,neko001,Resurrection,12,neko001_002+chaos
+51,neko001,Resurrection <GLITCH>,15,neko001_002+glitch
+52,neko001,One Way Love,9,neko001_003+chaos
+53,neko001,One Way Love <GLITCH>,11.6,neko001_003+glitch
+54,neko001,Happiness Breeze,11.6,neko001_004+chaos
+55,neko001,Happiness Breeze <GLITCH>,14.4,neko001_004+glitch
+56,neko001,Alterna Pt.1 -Cosmogony-,11.8,neko001_005+chaos
+57,neko001,Zealous Hearts (Rayark Edit),11.2,neko001_006+chaos
+58,neko001,Zealous Hearts (Rayark Edit) <GLITCH>,13,neko001_006+glitch
+59,neko001,Keep it up,13.2,neko001_007+chaos
+60,neko001,CODE NAME : GAMMA,14.6,neko001_008+chaos
+61,neko001,Blow my mind,14.2,neko001_009+chaos
+62,neko001,Chrome VOX,14.2,neko001_010+chaos
+63,neko001,Chrome VOX <GLITCH>,15.8,neko001_010+glitch
+64,neko001,Hard Landing,10.8,neko001_011+chaos
+65,neko001,Brain Power,12,neko001_012+chaos
+66,neko001,extinguisher,11,neko001_020+chaos
+67,neko001,extinguisher <GLITCH>,12.4,neko001_020+glitch
+68,neko001,For You the Bellz Toll,14.4,neko001_024+chaos
+69,neko001,Rei,12.2,neko001_037+chaos
+70,neko001,響け！,13,neko001_038+chaos
+71,neko001,気楽なCloudy,12.8,neko001_039+chaos
+72,neko001,Dropping Lightspeed,15.4,neko001_073+chaos
+73,neko001,Better than your error system,13.2,neko001_074+chaos
+74,neko001,Afterlife,15.2,neko001_080+chaos
+75,neko001,Breakthrough,15,neko001_083+chaos
+76,neko001,Idol,12.2,neko001_084+chaos
+77,neko001,Praystation (HiTECH NINJA Remix),13.6,neko001_015+chaos
+78,neko001,100sec Cat Dreams,15,neko001_016+chaos
+79,neko001,REmorse,14.6,neko001_017+chaos
+80,neko001,Stranger,11.6,neko001_018+chaos
+81,neko001,Stranger <GLITCH>,12.8,neko001_018+glitch
+82,neko001,小悪魔×3の大脫走！？,13.8,neko001_019+chaos
+83,neko001,Online,13.4,neko001_021+chaos
+84,neko001,Sunday Night Blues,9.8,neko001_022+chaos
+85,neko001,Blow My Mind (tpz Overheat Remix),14.8,neko001_025+chaos
+86,neko001,Maboroshi,13.8,neko001_026+chaos
+87,neko001,Maboroshi <GLITCH>,15.6,neko001_026+glitch
+88,neko001,TOKONOMA Spacewalk,13,neko001_027+chaos
+89,neko001,UnNOT!CED,13,neko001_028+chaos
+90,neko001,下水鳴動して鼠一匹,13.2,neko001_029+chaos
+91,neko001,Capybara Kids' Paradise,14.6,neko001_030+chaos
+92,neko001,Walnuts Walkers,13.6,neko001_031+chaos
+93,neko001,Hydra,12.2,neko001_032+chaos
+94,neko001,Hydra <GLITCH>,16.4,neko001_032+glitch
+95,neko001,Liberation,14,neko001_033+chaos
+96,neko001,Liberation <GLITCH>,15.8,neko001_033+glitch
+97,neko001,Ramen is God,14.8,neko001_034+chaos
+98,neko001,Ramen is God <GLITCH>,16.4,neko001_034+glitch
+99,neko001,Re:VeLΔTiØN ～光道ト破壊ノ双白翼～,14.4,neko001_035+chaos
+100,neko001,Re:VeLΔTiØN ～光道ト破壊ノ双白翼～ <GLITCH>,16.4,neko001_035+glitch
+101,neko001,Rebirth,11.6,neko001_036+chaos
+102,neko001,Rebirth <GLITCH>,15.4,neko001_036+glitch
+103,neko001,LOUDER MACHINE,12.4,neko001_055+chaos
+104,neko001,Headrush,12.4,neko001_075+chaos
+105,neko001,Ready to Take the Next Step,15.2,neko001_076+chaos
+106,neko001,ゴーストアウト,15.2,neko001_077+chaos
+107,neko001,Human Extinction,13.4,neko001_078+chaos
+108,neko001,UNIVERSAL RENDA AWESOME,15.4,neko001_079+chaos
+109,neko001,MAYAKASHI Merry-go-round,12,neko001_081+chaos
+110,neko001,Bone Born Bomb,14.8,neko001_082+chaos
+111,neko001,Still Standing Here,12,
+112,neko001,Still Standing Here <GLITCH>,14.4,
+113,neko001,DEVASTATION;CODE,13,
+114,neko001,DEVASTATION;CODE <GLITCH>,15.4,
+115,neko001,GHOSTHVCK,13,
+116,neko001,GHOSTHVCK <GLITCH>,15,
+117,neko001,Astral Paradox,15,
+118,neko001,Evil Intention,13.2,
+119,neko001,Midnight Mirage,11.6,
+120,neko001,Midnight Mirage <GLITCH>,14.2,
+121,neko001,Drive Impact,13.2,
+122,neko001,Drive Impact <GLITCH>,15,
+123,neko001,Phantom Blossom,13.2,
+124,neko001,Transcended Love,13.8,
+125,neko001,Transcended Love <GLITCH>,16.2,
+126,neko001,Glaring Eyes,14.2,
+127,robo001,Deadly Slot Game,13.4,robo001_001+chaos
+128,robo001,Deadly Slot Game <GLITCH>,14.6,robo001_001+glitch
+129,robo001,Make Me Burn,13.2,robo001_002+chaos
+130,robo001,Restriction,11,robo001_003+chaos
+131,robo001,Restriction <GLITCH>,14.4,robo001_003+glitch
+132,robo001,Luolimasi,11.4,robo001_004+chaos
+133,robo001,Claim the Game,12,robo001_005+chaos
+134,robo001,Claim the Game <GLITCH>,14,robo001_005+glitch
+135,robo001,Devillic Sphere,13.2,robo001_006+chaos
+136,robo001,Pure Powerstomper,12.4,robo001_007+chaos
+137,robo001,Pure Powerstomper <GLITCH>,14.4,robo001_007+glitch
+138,robo001,Celestial Sounds (KIVΛ Remix),14.8,robo001_008+chaos
+139,robo001,Grimoire of Crimson,11,robo001_009+chaos
+140,robo001,Grimoire of Crimson <GLITCH>,12,robo001_009+glitch
+141,robo001,Dasein,13,robo001_010+chaos
+142,robo001,Dasein <GLITCH>,14,robo001_010+glitch
+143,robo001,CHAOS,14.8,robo001_011+chaos
+144,robo001,CHAOS <GLITCH>,15.8,robo001_011+glitch
+145,robo001,EMber,11.8,robo001_012+chaos
+146,robo001,Midnight,14,robo001_013+chaos
+147,robo001,Dead Point,13,robo001_021+chaos
+148,robo001,Nocturnal Type,12,robo001_022+chaos
+149,robo001,Subconscious Mind,12.2,robo001_033+chaos
+150,robo001,Hyperbola,12.8,robo001_034+chaos
+151,robo001,Contact,11.2,robo001_047+chaos
+152,robo001,Urgency,12.4,robo001_049+chaos
+153,robo001,Sickest City,15.2,robo001_014+chaos
+154,robo001,Jazzy Glitch Machine,13.8,robo001_015+chaos
+155,robo001,dimensionalize nervous breakdown (rev.flat),13.8,robo001_016+chaos
+156,robo001,cold,11.4,robo001_017+chaos
+157,robo001,NRG_Tech,13,robo001_018+chaos
+158,robo001,Break Through the Barrier,13.6,robo001_019+chaos
+159,robo001,Dead Master,13,robo001_020+chaos
+160,robo001,Accelerator,14,robo001_023+chaos
+161,robo001,Armaros,12.4,robo001_024+chaos
+162,robo001,Break the Core,13.6,robo001_025+chaos
+163,robo001,Milky Way Galaxy (SIHanatsuka Remix),13.4,robo001_026+chaos
+164,robo001,ViRUS,11.4,robo001_027+chaos
+165,robo001,Awakening,11,robo001_028+chaos
+166,robo001,Hagiasmos,12.8,robo001_029+chaos
+167,robo001,Fade Into The Darkness,13.8,robo001_030+chaos
+168,robo001,SHIRO,13,robo001_031+chaos
+169,robo001,Tunnef's Nightmare,14.2,robo001_032+chaos
+170,robo001,tundra,12.8,robo001_035+chaos
+171,robo001,Zeus,12.2,robo001_036+chaos
+172,robo001,Symbol (PTB10 Remix),13.4,robo001_037+chaos
+173,robo001,Breaching BIOS,14,robo001_038+chaos
+174,robo001,The Devil Will Pray,15.4,robo001_039+chaos
+175,robo001,ArkLight,14.4,robo001_040+chaos
+176,robo001,honeykill,15.4,robo001_041+chaos
+177,robo001,Exoseven,13.4,robo001_042+chaos
+178,robo001,LIFE is GAME,12.4,robo001_043+chaos
+179,robo001,Destructed Empire,13.6,robo001_044+chaos
+180,robo001,[SILENT[[・-・]]MOMENT],12.8,robo001_045+chaos
+181,robo001,[SILENT[[・-・]]MOMENT] <GLITCH>,14.8,robo001_045+glitch
+182,robo001,SATELLITE,14,robo001_046+chaos
+183,robo001,Acquire,13.6,robo001_048+chaos
+184,ivy001,Reset,12,ivy001_001+chaos
+185,ivy001,D R G,11.4,ivy001_002+chaos
+186,ivy001,Sentimental Journey,14.2,ivy001_003+chaos
+187,ivy001,Biotonic,13,ivy001_004+chaos
+188,ivy001,Alexandrite,14,ivy001_005+chaos
+189,ivy001,Tokiwatari,13.2,ivy001_006+chaos
+190,ivy001,Purge,12.6,ivy001_007+chaos
+191,ivy001,Area184,11.6,ivy001_008+chaos
+192,ivy001,BloodyMare,13.2,ivy001_009+chaos
+193,ivy001,AssaultMare,14.2,ivy001_010+chaos
+194,ivy001,Lunar Mare,14.6,ivy001_011+chaos
+195,ivy001,Lunar Mare <GLITCH>,16.4,ivy001_011+glitch
+196,ivy001,99 Glooms,13.6,ivy001_012+chaos
+197,ivy001,99 Glooms <GLITCH>,15.2,ivy001_012+glitch
+198,ivy001,Pressure,12.2,ivy001_013+chaos
+199,ivy001,V.,15.6,ivy001_014+chaos
+200,ivy001,Halloween Party,15.2,ivy001_025+chaos
+201,ivy001,Bloody Purity,14.4,ivy001_026+chaos
+202,ivy001,Masquerade,12,ivy001_027+chaos
+203,ivy001,Quantum Labyrinth,12,ivy001_028+chaos
+204,ivy001,Saika,12.2,ivy001_029+chaos
+205,ivy001,To Further Dream,13,ivy001_030+chaos
+206,ivy001,Libera Me,14,ivy001_031+chaos
+207,ivy001,Qualia,13.4,ivy001_032+chaos
+208,ivy001,conflict,15.4,ivy001_038+chaos
+209,ivy001,conflict <GLITCH>,15.4,ivy001_038+glitch
+210,ivy001,FREEDOM DiVE,15.6,ivy001_039+chaos
+211,ivy001,Summer Zephyr,10.6,ivy001_040+chaos
+212,ivy001,Sovereign,13.2,ivy001_041+chaos
+213,ivy001,Paradigm-paragramme-program,13.6,ivy001_042+chaos
+214,ivy001,Secret Garden,11,ivy001_043+chaos
+215,ivy001,Halcyon,13.4,ivy001_044+chaos
+216,ivy001,Dystopia,11.6,ivy001_047+chaos
+217,ivy001,UTOPIA,11.6,ivy001_048+chaos
+218,ivy001,Heroic Age,11.8,ivy001_049+chaos
+219,ivy001,AXION,13,ivy001_050+chaos
+220,ivy001,First Gate,13,ivy001_051+chaos
+221,ivy001,First Gate <GLITCH>,15.8,ivy001_051+glitch
+222,ivy001,Oriens,12.8,ivy001_052+chaos
+223,ivy001,The Last Illusion,12.8,ivy001_053+chaos
+224,ivy001,Visions,11.4,ivy001_054+chaos
+225,ivy001,Parousia,13.4,
+226,ivy001,Cristalisia,12.8,ivy001_015+chaos
+227,ivy001,Occidens,14.8,ivy001_016+chaos
+228,ivy001,Red Five,14,ivy001_017+chaos
+229,ivy001,Homebound Train & Moving Thoughts,9,ivy001_018+chaos
+230,ivy001,iL,16.2,ivy001_019+chaos
+231,ivy001,CODE NAME : SIGMA,14.6,ivy001_020+chaos
+232,ivy001,New Challenger Approaching,15,ivy001_021+chaos
+233,ivy001,What's Your PR.Ice?,12,ivy001_022+chaos
+234,ivy001,VIS::CRACKED,15.8,ivy001_023+chaos
+235,ivy001,Wicked Ceremony,13.8,ivy001_024+chaos
+236,ivy001,DigiGroove,13.4,ivy001_033+chaos
+237,ivy001,Heat Ring,11.6,ivy001_034+chaos
+238,ivy001,Leaving All Behind,13.4,ivy001_035+chaos
+239,ivy001,Symmetry,15.2,ivy001_036+chaos
+240,ivy001,Time To Fight,14.2,ivy001_037+chaos
+241,ivy001,Drifted Fragments,12.8,ivy001_045+chaos
+242,ivy001,地下の雑踏,13.6,ivy001_046+chaos
+243,cherry002,Effervesce,13.2,cherry002_001+chaos
+244,cherry002,Chandelier XIII,12.8,cherry002_002+chaos
+245,cherry002,Sunshine Duration,12.2,cherry002_003+chaos
+246,cherry002,Sunshine Duration <GLITCH>,14.2,cherry002_003+glitch
+247,cherry002,Deep Dive,13.6,cherry002_004+chaos
+248,cherry002,βinαrΨ,12.4,cherry002_005+chaos
+249,cherry002,Dark Madness,13.6,cherry002_006+chaos
+250,cherry002,The Cross (feat. Silvia Su),12.4,cherry002_013+chaos
+251,cherry002,眷戀,11.4,cherry002_014+chaos
+252,cherry002,Still (Piano Version),9.4,cherry002_015+chaos
+253,cherry002,Prema Flowers,12.2,cherry002_016+chaos
+254,cherry002,Collide,12,cherry002_017+chaos
+255,cherry002,Darling Staring...,13.6,cherry002_007+chaos
+256,cherry002,Crimson Fate,13.4,cherry002_008+chaos
+257,cherry002,Familiar Craze,13.2,cherry002_009+chaos
+258,cherry002,Malstream,12.8,cherry002_010+chaos
+259,cherry002,V.R.W (feat. shully),12,cherry002_011+chaos
+260,cherry002,velkinta feat. Cikado & A-Tse,12.2,cherry002_012+chaos
+261,cherry002,Imprint,13.4,cherry002_018+chaos
+262,vanessa001,Anchor,9.8,vanessa001_001+chaos
+263,vanessa001,syūten,11.2,vanessa001_002+chaos
+264,vanessa001,Rosa Rubus,11.4,vanessa001_003+chaos
+265,vanessa001,XYZ,15.4,vanessa001_004+chaos
+266,vanessa001,II-V,12.4,vanessa001_005+chaos
+267,vanessa001,Chaos and Abyss -3rd Movement-,14.6,vanessa001_006+chaos
+268,vanessa001,Duality,11.4,vanessa001_007+chaos
+269,vanessa001,Ra,12.8,vanessa001_008+chaos
+270,vanessa001,CHAOS //System Offline//,13,vanessa001_009+chaos
+271,vanessa001,V. //System Offline//,13.4,vanessa001_010+chaos
+272,vanessa001,II,15,vanessa001_011+chaos
+273,vanessa001,Used to be,10,vanessa001_012+chaos
+274,vanessa001,Used to be <GLITCH>,12.4,vanessa001_012+glitch
+275,vanessa001,The Whole Rest,12,vanessa001_013+chaos
+276,vanessa001,The Whole Rest <GLITCH>,13.4,vanessa001_013+glitch
+277,vanessa001,Blessing Reunion,11.4,vanessa001_014+chaos
+278,vanessa001,3:00 a.m.,11.8,vanessa001_015+chaos
+279,vanessa001,Installation,12.6,vanessa001_016+chaos
+280,vanessa001,Installation (VILA),9.4,vanessa001_017+chaos
+281,vanessa001,Risoluto,13.6,vanessa001_018+chaos
+282,vanessa001,Risoluto (VILA),13.2,vanessa001_019+chaos
+283,vanessa001,The End Years,13.2,vanessa001_020+chaos
+284,vanessa001,Incyde,15.4,vanessa001_021+chaos
+285,vanessa001,THE BEGINNING,12,vanessa001_022+chaos
+286,vanessa001,Cocytus,7,vanessa001_023+chaos
+287,bobo001,Äventyr,12.6,bobo001_001+chaos
+288,bobo001,NORDLYS,12.6,bobo001_002+chaos
+289,bobo001,Snow Blossom,12.4,bobo001_003+chaos
+290,bobo001,Quinsialyn,13.8,bobo001_004+chaos
+291,bobo001,黎明-REIMEI-,12,bobo001_005+chaos
+292,bobo001,IBUKI,12.4,bobo001_008+chaos
+293,bobo001,The breath of the soul,13.6,bobo001_009+chaos
+294,bobo001,Firstborns,13.8,bobo001_010+chaos
+295,bobo001,Heliopolis Project,11.6,bobo001_011+chaos
+296,bobo001,TSUBAKI,12.8,bobo001_012+chaos
+297,bobo001,Vox Enchanted,10.6,bobo001_013+chaos
+298,bobo001,King of Desert,12.4,bobo001_014+chaos
+299,bobo001,tRinity saga,14.8,bobo001_015+chaos
+300,bobo001,Tomb Robber,13,bobo001_016+chaos
+301,bobo001,New Quest,13,bobo001_017+chaos
+302,bobo001,バステット (Cytus II Edit),12.2,bobo001_018+chaos
+303,bobo001,End of fireworks,11,bobo001_006+chaos
+304,bobo001,神様と羊飼い,12.6,bobo001_007+chaos
+305,graffj001,Conundrum,13,graffj001_001+chaos
+306,graffj001,Game on Together !,9.6,graffj001_049+chaos
+307,graffj001,Drop,13.2,graffj001_065+chaos
+308,graffj001,Go Adventure!,11.4,graffj001_071+chaos
+309,graffj001,The Moonlight,14.2,graffj001_072+chaos
+310,graffj001,Complextro,12.8,graffj001_073+chaos
+311,graffj001,Circus Time,13.8,graffj001_002+chaos
+312,graffj001,Dead V-Code (Special Edit),14,graffj001_003+chaos
+313,graffj001,sweet conflict,12,graffj001_004+chaos
+314,graffj001,Centimeter Johnny,12.6,graffj001_005+chaos
+315,graffj001,Obey,12.6,graffj001_006+chaos
+316,graffj001,BREAK FREE,13.2,graffj001_022+chaos
+317,graffj001,DON'T LISTEN TO THIS WHILE DRIVING,13.6,graffj001_023+chaos
+318,graffj001,RESET MAN,12.2,graffj001_024+chaos
+319,graffj001,PERSONA,11,graffj001_025+chaos
+320,graffj001,OUT OF THE MATRIX,13,graffj001_026+chaos
+321,graffj001,Curiosity killed the cat,11.2,graffj001_027+chaos
+322,graffj001,REBELLIA,14,graffj001_028+chaos
+323,graffj001,Code Interceptor,13,graffj001_029+chaos
+324,graffj001,La Prière,14.8,graffj001_030+chaos
+325,graffj001,Phantom,13,graffj001_031+chaos
+326,graffj001,Whirlwind,13.2,graffj001_032+chaos
+327,graffj001,東京Funk,13.2,graffj001_033+chaos
+328,graffj001,ACID BASILISK,15.2,graffj001_034+chaos
+329,graffj001,TIGER LILY,14.8,graffj001_035+chaos
+330,graffj001,Accelerate,13,graffj001_046+chaos
+331,graffj001,CTRL,13.8,graffj001_064+chaos
+332,graffj001,白の影、蒼の影。ft. Kanae Asaba,10.2,graffj001_066+chaos
+333,graffj001,Xing-Lai Heaven,13.4,graffj001_067+chaos
+334,graffj001,Noël,15.6,graffj001_068+chaos
+335,graffj001,CHAOS MAGNVM,14.8,graffj001_069+chaos
+336,graffj001,But I Know,10.2,graffj001_070+chaos
+337,graffj001,Sdorica The Story Unfolds,11,neko001_013+chaos
+338,graffj001,Hesitant Blade,12.4,neko001_014+chaos
+339,graffj001,Pounding Destination,10.4,neko001_056+chaos
+340,graffj001,Stewrica -Cross-,12,neko001_057+chaos
+341,graffj001,FUJIN Rumble,14.8,neko001_023+chaos
+342,graffj001,Hop Step Adventure☆,13.4,graffj001_071+chaos
+343,graffj001,Silent Voice,12.6,neko001_059+chaos
+344,graffj001,Spring,13.6,neko001_060+chaos
+345,graffj001,dynamo,15,neko001_061+chaos
+346,graffj001,Hello Days,12.2,neko001_062+chaos
+347,graffj001,Interstellar Experience,14.4,neko001_063+chaos
+348,graffj001,FUSE,13.8,neko001_064+chaos
+349,graffj001,Gigantic Saga,12.2,neko001_065+chaos
+350,graffj001,popotnik ~ The Traveller of Ljubljana,12,neko001_066+chaos
+351,graffj001,Ascension to Heaven,14.2,neko001_067+chaos
+352,graffj001,Lifill,12,neko001_068+chaos
+353,graffj001,そんなに私を期待きせないで,10.4,neko001_069+chaos
+354,graffj001,Fading Star,11.8,neko001_070+chaos
+355,graffj001,Magical Toy Box,15.6,neko001_071+chaos
+356,graffj001,Until the Blue Moon Rises,12.4,neko001_072+chaos
+357,graffj001,双龍飛閃-Dual Dragoon-,15.2,graffj001_019+chaos
+358,graffj001,Like Asian Spirit,14.4,graffj001_020+chaos
+359,graffj001,Tsukiyura,13.8,graffj001_021+chaos
+360,graffj001,Time Traveller,13,graffj001_043+chaos
+361,graffj001,Flash Gun,12,graffj001_044+chaos
+362,graffj001,Nyx -Fatal arousal of Madness-,15.8,graffj001_045+chaos
+363,graffj001,Lights of Muse,14.2,graffj001_007+chaos
+364,graffj001,Stargazer,10.4,graffj001_008+chaos
+365,graffj001,Blackest Luxury Car,12.4,graffj001_009+chaos
+366,graffj001,粉骨砕身カジノゥ,14.2,graffj001_010+chaos
+367,graffj001,時計の部屋と精神世界,13.2,graffj001_011+chaos
+368,graffj001,XING,12.2,graffj001_012+chaos
+369,graffj001,Brave My Heart,11,graffj001_013+chaos
+370,graffj001,Final Step!,12.4,graffj001_014+chaos
+371,graffj001,Medusa,13.4,graffj001_015+chaos
+372,graffj001,XODUS,15.6,graffj001_016+chaos
+373,graffj001,The 89's Momentum,12.8,graffj001_017+chaos
+374,graffj001,The 90's Decision,13.8,graffj001_018+chaos
+375,graffj001,Dance Dance 晚安舞会,9.6,graffj001_082+chaos
+376,graffj001,DOMINATOR,15.6,graffj001_083+chaos
+377,graffj001,Swing Edge,13.4,graffj001_084+chaos
+378,graffj001,Kaguya,14.6,graffj001_041+chaos
+379,graffj001,Red Storm Sentiment,11,graffj001_042+chaos
+380,graffj001,非・現実逃避,9,graffj001_047+chaos
+381,graffj001,非・現実逃避 Rabpit Remix,9.8,graffj001_048+chaos
+382,graffj001,Echo over you...,13.4,graffj001_050+chaos
+383,graffj001,Forest of Clock,13,graffj001_051+chaos
+384,graffj001,Kokoro Odoro,12.2,graffj001_062+chaos
+385,graffj001,"Dandelion Girls, Dandelion Boys",11.8,graffj001_063+chaos
+386,graffj001,AMEMOYOU,11,graffj001_052+chaos
+387,graffj001,Fairy's Crown,14.6,graffj001_053+chaos
+388,graffj001,INNOCENCE,13.8,graffj001_060+chaos
+389,graffj001,felzione,15.4,graffj001_055+chaos
+390,graffj001,Reverie,11.6,graffj001_056+chaos
+391,graffj001,Tenkiame,12,graffj001_057+chaos
+392,graffj001,BUBBLE TEA,10,graffj001_058+chaos
+393,graffj001,Ao,12.8,graffj001_059+chaos
+394,graffj001,Gemini about the Darkness,15,graffj001_054+chaos
+395,graffj001,Stand Steel,13.2,graffj001_061+chaos
+396,graffj001,Caliburne ～Story of the Legendary sword～,15.2,neko001_040+chaos
+397,graffj001,DON'T STOP ROCKIN',12.8,neko001_041+chaos
+398,graffj001,Glorious Crown,15.8,neko001_042+chaos
+399,graffj001,Oshama Scramble!,14.2,neko001_043+chaos
+400,graffj001,超常マイマイン,13,neko001_044+chaos
+401,graffj001,BlythE,12.2,neko001_045+chaos
+402,graffj001,glory day,11.6,neko001_046+chaos
+403,graffj001,OBLIVION,12,
+404,graffj001,Play The Future,13,neko001_048+chaos
+405,graffj001,We're All Gonna Die,15.6,neko001_049+chaos
+406,graffj001,Ask to Wind Live Mix,10.6,neko001_050+chaos
+407,graffj001,End of the Moonlight,13,graffj001_072+chaos
+408,graffj001,Hello Pinky,11.4,neko001_052+chaos
+409,graffj001,Nightmare,15.8,neko001_053+chaos
+410,graffj001,U.A.D,12.4,neko001_054+chaos
+411,graffj001,Climax,14.6,graffj001_036+chaos
+412,graffj001,SNIPE WHOLE,12.8,graffj001_037+chaos
+413,graffj001,Trrricksters!!,15.8,graffj001_038+chaos
+414,graffj001,光線チューニング,13,graffj001_039+chaos
+415,graffj001,最愛テトラグラマトン,12.6,graffj001_040+chaos
+416,graffj001,B.B.K.K.B.K.K. (2023 Remake),13.2,graffj001_074+chaos
+417,graffj001,B.B.K.K.B.K.K. (Nizikawa Remix),11.6,graffj001_075+chaos
+418,graffj001,B.B.K.K.B.K.K. (USAO Remix),15.2,graffj001_076+chaos
+419,graffj001,B.B.K.K.B.K.K. (立秋ちょこRemix),14.4,graffj001_077+chaos
+420,graffj001,B.B.K.K.B.K.K. (影虎。& siqlo PsyReMix),13.2,graffj001_078+chaos
+421,graffj001,Pastel Lines,11,graffj001_079+chaos
+422,graffj001,LINK x LIN#S,12.2,graffj001_080+chaos
+423,graffj001,BRAVE:ROAD,15.2,graffj001_081+chaos
+424,graffj001,CYBER DIVER,12.8,graffj001_085+chaos
+425,graffj001,Euouae,15.2,graffj001_086+chaos
+426,graffj001,LAST Re;SØRT,15.4,graffj001_087+chaos
+427,graffj001,LAST Re;SØRT <GLITCH>,16.4,graffj001_087+glitch
+428,graffj001,Nebula Traveller,12.2,graffj001_088+chaos
+429,graffj001,RE:dshift,13,graffj001_089+chaos
+430,graffj001,Demon Core,11.2,graffj001_090+chaos
+431,graffj001,Demon Core <GLITCH>,15.2,graffj001_090+glitch
+432,graffj001,WORLDCALL,13.2,
+433,graffj001,Chase,13,
+434,graffj001,Restricted Access,15.2,
+435,graffj001,Rebooted Mind,14.8,
+436,graffj001,Forgotten Asteroid,14.2,
+437,graffj001,Artificial Existence,12.2,
+438,graffj001,Awaken in Ruins,12.8,
+439,graffj001,Final Farewell,13.6,
+440,graffj001,Cybernetic Vampire,14.6,
+441,graffj001,Prayers for the Colorless,15.6,
+442,graffj001,コズミックファンファーレ!!!!,15.4,
+443,graffj001,#Interstellar_Believer,15,neko001_063+chaos
+444,graffj001,LUNATiC CiRCUiT,15.4,
+445,graffj001,Nya☆ばんちゅーる,15.4,
+446,graffj001,Synthesis.,15.2,
+447,tairitsu001,九番目の迷路,10.8,tairitsu001_004+chaos
+448,tairitsu001,Auxesia,13,tairitsu001_005+chaos
+449,tairitsu001,Malicious Mischance,14,tairitsu001_006+chaos
+450,tairitsu001,彩る夏の恋花火,13.2,tairitsu001_007+chaos
+451,tairitsu001,init(),13.6,tairitsu001_008+chaos
+452,tairitsu001,GLORY:ROAD,15.2,tairitsu001_009+chaos
+453,tairitsu001,Lucid Traveler,15,tairitsu001_010+chaos
+454,tairitsu001,Grievous Lady,15.8,tairitsu001_001+chaos
+455,tairitsu001,Fracture Ray,15.2,tairitsu001_002+chaos
+456,tairitsu001,Axium Crisis,13.2,tairitsu001_003+chaos
+457,amiya001,Boiling Blood,14.2,amiya001_001+chaos
+458,amiya001,Operation Pyrite,13.4,amiya001_002+chaos
+459,amiya001,Keep the torch,11.6,amiya001_003+chaos
+460,amiya001,ALIVE,14.8,amiya001_004+chaos
+461,amiya001,Operation Blade,11.4,amiya001_005+chaos
+462,amiya001,Evolutionary Mechanization,12.6,amiya001_006+chaos
+463,amiya001,El Brillo Solitario,12.4,amiya001_007+chaos
+464,amiya001,ManiFesto:,11.4,amiya001_008+chaos
+465,amiya001,Speed of Light,11,amiya001_009+chaos
+466,amiya001,Renegade,12,amiya001_010+chaos
+467,kaf001,心臓と絡繰,11.6,kaf001_001+chaos
+468,kaf001,メルの黄昏,12.4,kaf001_002+chaos
+469,kaf001,夜行バスにて,11.4,kaf001_003+chaos
+470,kaf001,未確認少女進行形,10.8,kaf001_004+chaos
+471,kaf001,糸,12,kaf001_005+chaos
+472,kaf001,帰り路,11,kaf001_006+chaos
+473,kaf001,過去を喰らう,11.2,kaf001_007+chaos
+474,kaf001,雛鳥,10.2,kaf001_008+chaos
+475,kaf001,そして花になる,10.4,kaf001_009+chaos
+476,kaf001,不可解（Cytus II Edit.）,12.2,kaf001_010+chaos
+477,alice001,Friction,12,alice001_001+chaos
+478,alice001,Legacy,9.2,alice001_002+chaos
+479,alice001,Living In The One,11.2,alice001_003+chaos
+480,alice001,YUBIKIRI-GENMAN,9,alice001_004+chaos
+481,alice001,I hate to tell you,12.4,alice001_005+chaos
+482,alice001,Utopiosphere,10.2,alice001_006+chaos
+483,alice001,Marigold,15.4,alice001_007+chaos
+484,alice001,The Beautiful Moonlight,9.4,alice001_008+chaos
+485,alice001,都市の呼吸,12.8,alice001_009+chaos
+486,alice001,to next page,12.2,alice001_010+chaos
+487,alice001,ANiMA,16,alice001_011+chaos
+488,hans001,Sunset,9.6,hans001_001+chaos
+489,hans001,Ephemeral,11.4,hans001_002+chaos
+490,hans001,Ruins in the Mirage,11.2,hans001_003+chaos
+491,hans001,Run Go Run,12.2,hans001_004+chaos
+492,hans001,Platinum,9.4,hans001_005+chaos
+493,hans001,Leviathan,13.4,hans001_006+chaos
+494,hans001,Lost in the Nowhere,15.4,hans001_007+chaos
+495,hans001,Dream,11.6,hans001_008+chaos
+496,hans001,Path and Period,12.8,hans001_009+chaos
+497,hans001,Aragami,15.4,hans001_010+chaos
+498,hans001,Rhuzerv,15,hans001_011+chaos
+499,ai001,AIAIAI (feat. 中田ヤスタカ),11.6,ai001_001+chaos
+500,ai001,"Hello, Morning (Prod. Nor)",12.4,ai001_002+chaos
+501,ai001,future base (Prod. Yunomi),11.4,ai001_003+chaos
+502,ai001,new world (Prod. Yunomi),10.4,ai001_004+chaos
+503,ai001,miracle step (Prod. Nor),12.2,ai001_005+chaos
+504,ai001,meet you (Prod. DÉ DÉ MOUSE),11.6,ai001_006+chaos
+505,ai001,mirai (Prod. ☆Taku Takahashi),9.6,ai001_007+chaos
+506,ai001,over the reality (Prod. Avec Avec),12.8,ai001_008+chaos
+507,ai001,melty world (Prod. TeddyLoid),13.6,ai001_009+chaos
+508,ai001,"hello, alone (Prod. MATZ)",9.8,ai001_010+chaos
+509,miku001,Blue Star,10.6,miku001_001+chaos
+510,miku001,Blue Star <GLITCH>,12.6,miku001_001+glitch
+511,miku001,BREAK IT,13.2,miku001_002+chaos
+512,miku001,Can't Make A Song!!,11.6,miku001_003+chaos
+513,miku001,Can't Make A Song!! <GLITCH>,13.4,miku001_003+glitch
+514,miku001,Miku,10.8,miku001_004+chaos
+515,miku001,Sharing The World,9.6,miku001_005+chaos
+516,miku001,Venus di Ujung Jari,8,miku001_006+chaos
+517,miku001,ラッキー☆オーブ,11.4,miku001_007+chaos
+518,miku001,魔法みたいなミュージック！,12.8,miku001_008+chaos
+519,miku001,月西江,8.6,miku001_009+chaos
+520,miku001,Ten Thousand Stars,12,miku001_010+chaos
+521,miku001,Glass Wall,10.6,miku001_011+chaos
+522,miku001,Cybernetic,13.8,miku001_012+chaos
+523,miku001,Decade,9.2,miku001_013+chaos
+524,miku001,ラッキー☆オーブ (3R2 Remix),11.2,miku001_014+chaos
+525,miku001,Highlight,10.6,
+526,miku001,Plaything,11.4,
+527,miku001,imaginary love story,13.4,
+528,miku001,Intergalactic Bound,13.4,
+529,miku001,M@GICAL☆CURE! LOVE ♥ SHOT!,12.6,
+530,miku001,M@GICAL☆CURE! LOVE ♥ SHOT! <GLITCH>,12.6,
+531,miku001,Miku Fiesta,13,
+532,miku001,Thousand Little Voices,11.2,
+533,ilka001,Alb,14.2,ilka001_004+chaos
+534,ilka001,Alb <GLITCH>,13.8,ilka001_004+glitch
+535,ilka001,CODE:RED,14.2,ilka001_005+chaos
+536,ilka001,CODE:RED <GLITCH>,15,ilka001_005+glitch
+537,ilka001,Rebellion Trigger,14.8,ilka001_003+chaos
+538,ilka001,Silver Lotus,11.4,ilka001_001+chaos
+539,ilka001,Victims of Will,13,ilka001_009+chaos
+540,ilka001,Victims of Will <GLITCH>,13.4,ilka001_009+glitch
+541,ilka001,History DstrØyeR,15.4,ilka001_008+chaos
+542,ilka001,Elysian Volitation,15,ilka001_007+chaos
+543,ilka001,Re:The END -再-,16,ilka001_010+chaos
+544,ilka001,3G0,12,ilka001_002+chaos
+545,ilka001,Levolution,11.8,ilka001_006+chaos
+546,ilka001,IΛVΛVI,14.6,ilka001_011+chaos
+547,ilka001,Oneiroi,12.8,ilka001_012+chaos
+548,ilka001,Lamentation,14.2,ilka001_013+chaos
+549,ilka001,Lamentation <GLITCH>,16.2,ilka001_013+glitch
+550,ilka001,Samuel's Farewell,12.8,ilka001_014+chaos
+551,ilka001,Noir,12.8,ilka001_015+chaos
+552,xenon001,INSPION,13.2,xenon001_001+chaos
+553,xenon001,Whispers in my Head,13,xenon001_002+chaos
+554,xenon001,Return,11,xenon001_003+chaos
+555,xenon001,concentric circles,12.2,xenon001_004+chaos
+556,xenon001,concentric circles <GLITCH>,13,xenon001_004+glitch
+557,xenon001,Fighting,11.8,xenon001_005+chaos
+558,xenon001,To the Light,12.6,xenon001_006+chaos
+559,xenon001,To the Light <GLITCH>,14.6,xenon001_006+glitch
+560,xenon001,Phantom Razor,12.6,xenon001_007+chaos
+561,xenon001,Phantom Razor <GLITCH>,14.2,xenon001_007+glitch
+562,xenon001,Black Hole,10.6,xenon001_008+chaos
+563,xenon001,SAMURAI,14.2,xenon001_009+chaos
+564,xenon001,IOLITE-SUNSTONE,11.8,xenon001_010+chaos
+565,xenon001,IOLITE-SUNSTONE <GLITCH>,12,xenon001_010+glitch
+566,xenon001,Sairai,9.6,xenon001_011+chaos
+567,xenon001,Ultimate feat. 放課後のあいつ,13,xenon001_012+chaos
+568,xenon001,Karma,11.6,xenon001_013+chaos
+569,xenon001,Chosen,12.8,xenon001_014+chaos
+570,xenon001,Violet,15,xenon001_015+chaos
+571,xenon001,Asylum,12.4,xenon001_016+chaos
+572,xenon001,Tiny Giant Goes To The Sea,11.8,xenon001_017+chaos
+573,conner001,Xiorc,13.2,conner001_001+chaos
+574,conner001,Xiorc <GLITCH>,16,conner001_001+glitch
+575,conner001,REBELLIUM,14.4,conner001_002+chaos
+576,conner001,Imprinting,12.8,conner001_003+chaos
+577,conner001,Imprinting <GLITCH>,15.2,conner001_003+glitch
+578,conner001,Gekkouka,11.6,conner001_004+chaos
+579,conner001,Light of Buenos Aires,12.2,conner001_005+chaos
+580,conner001,tondari-hanetari,12.2,conner001_006+chaos
+581,conner001,tondari-hanetari <GLITCH>,12.4,conner001_006+glitch
+582,conner001,Abduction,11.4,conner001_007+chaos
+583,conner001,Nostalgia Sonatina,12.4,conner001_008+chaos
+584,conner001,I luv U,10.4,conner001_009+chaos
+585,conner001,Instinct,11.4,conner001_010+chaos
+586,conner001,Instinct <GLITCH>,14.8,conner001_010+glitch
+587,conner001,Floor of Lava,16,conner001_011+chaos
+588,conner001,Aphasia,12.8,conner001_012+chaos
+589,conner001,Olympia,12,conner001_013+chaos
+590,conner001,Demetrius,12.8,conner001_014+chaos
+591,conner001,L'Ultima Cena,13.6,conner001_015+chaos
+592,conner001,Deus Ex Machina,12.4,conner001_016+chaos
+593,conner001,"Fur War, Pur War",15.4,conner001_017+chaos
+594,conner001,Re:boot,14,conner001_018+chaos
+595,conner001,Last Landing,13.2,conner001_019+chaos
+596,cherry001,Scenery in your eyes,10,cherry001_001+chaos
+597,cherry001,LEVEL4,13,cherry001_002+chaos
+598,cherry001,Living for you (Andy Tunstall remix),10.8,cherry001_003+chaos
+599,cherry001,I'M NOT,11.2,cherry001_004+chaos
+600,cherry001,Stop at nothing (Andy Tunstall remix),11.2,cherry001_005+chaos
+601,cherry001,RETRIEVE,11.4,cherry001_006+chaos
+602,cherry001,Still,11.4,cherry001_007+chaos
+603,cherry001,Still <GLITCH>,13.6,cherry001_007+glitch
+604,cherry001,CREDENCE,11.2,cherry001_008+chaos
+605,cherry001,CREDENCE <GLITCH>,13,cherry001_008+glitch
+606,cherry001,SYSTEMFEIT,12.2,cherry001_009+chaos
+607,cherry001,hunted,13,cherry001_010+chaos
+608,cherry001,Capture me,11.6,cherry001_011+chaos
+609,cherry001,Realize,12.4,cherry001_012+chaos
+610,joe001,Childish,12.6,joe001_001+chaos
+611,joe001,Turnstile Jumper,13.6,joe001_002+chaos
+612,joe001,Juicy Gossip,12,joe001_003+chaos
+613,joe001,Standby for Action,12.6,joe001_004+chaos
+614,joe001,Standby for Action <GLITCH>,14.4,joe001_004+glitch
+615,joe001,Open The Game,13.4,joe001_005+chaos
+616,joe001,Hydrangea,13,joe001_006+chaos
+617,joe001,Hydrangea <GLITCH>,14.2,joe001_006+glitch
+618,joe001,Absolutely,12,joe001_007+chaos
+619,joe001,Higher and Higher,13.8,joe001_008+chaos
+620,joe001,Take me to the Future,13.6,joe001_009+chaos
+621,joe001,Nautilus,11.6,joe001_010+chaos
+622,joe001,Bass Music,13.4,joe001_011+chaos
+623,sagar001,Amenemhat,13.6,sagar001_001+chaos
+624,sagar001,Amenemhat <GLITCH>,14.4,sagar001_001+glitch
+625,sagar001,Elysium,12.2,sagar001_002+chaos
+626,sagar001,Immram Brain,13.2,sagar001_003+chaos
+627,sagar001,Space Alien,13.8,sagar001_004+chaos
+628,sagar001,Doldrums,14.2,sagar001_005+chaos
+629,sagar001,Nídhögg,14.2,sagar001_006+chaos
+630,sagar001,Nídhögg <GLITCH>,15,sagar001_006+glitch
+631,sagar001,Legacy,13.4,sagar001_007+chaos
+632,sagar001,A Portent of the Silver Wheel,13.6,sagar001_008+chaos
+633,sagar001,Sacrifice,14,sagar001_009+chaos
+634,sagar001,Return of the Lamp,13.6,sagar001_010+chaos
+635,rin001,The Siege,12.6,rin001_001+chaos
+636,rin001,The Grand Debate,12.6,rin001_002+chaos
+637,rin001,三灯火,12.6,rin001_003+chaos
+638,rin001,「妖怪録、我し来にけり。」,14.4,rin001_004+chaos
+639,rin001,「妖怪録、我し来にけり。」 <GLITCH>,15.2,rin001_004+glitch
+640,rin001,Starry Summoner,10.8,rin001_005+chaos
+641,rin001,すゝめ☆クノイチの巻,14.6,rin001_006+chaos
+642,rin001,彩,15.2,rin001_007+chaos
+643,rin001,彩 <GLITCH>,16.2,rin001_007+glitch
+644,rin001,決戦,12.2,rin001_008+chaos
+645,rin001,Mari-Temari,12.4,rin001_009+chaos
+646,rin001,Inari,10.4,rin001_010+chaos
+647,paff002,change,9,paff002_001+chaos
+648,paff002,change <GLITCH>,12.6,paff002_001+glitch
+649,paff002,No One Can't Stop Me,11.2,paff002_002+chaos
+650,paff002,Spotlight On,12,paff002_003+chaos
+651,paff002,Bring the light,9,paff002_004+chaos
+652,paff002,Make U Mine,11.4,paff002_005+chaos
+653,paff002,Anzen Na Kusuri,10.6,paff002_006+chaos
+654,paff002,漂流,14.2,paff002_007+chaos
+655,paff002,Perspectives,10.4,paff002_008+chaos
+656,paff002,Perspectives <GLITCH>,13,paff002_008+glitch
+657,paff002,風の声,10,paff002_009+chaos
+658,paff002,Neon Escape,10.8,paff002_010+chaos
+659,paff002,Beautiful Lie,11.2,paff002_011+chaos
+660,robo002,Accelerator,13.6,robo002_001+chaos
+661,robo002,Dance till Dawn,11.2,robo002_002+chaos
+662,robo002,Uranus,12,robo002_003+chaos
+663,robo002,Uranus <GLITCH>,14.4,robo002_003+glitch
+664,robo002,Drop The World,14.6,robo002_004+chaos
+665,robo002,Starlight (KIVΛ Remix),11.4,robo002_005+chaos
+666,robo002,Bastard of Hardcore,13,robo002_006+chaos
+667,robo002,Bastard of Hardcore <GLITCH>,14,robo002_006+glitch
+668,robo002,Jakarta PROGRESSION,14.2,robo002_007+chaos
+669,robo002,Eternity,11,robo002_008+chaos
+670,robo002,Phagy Mutation,12.6,robo002_009+chaos
+671,robo002,ATONEMENT,11.2,robo002_010+chaos
+672,robo002,Grand Emotion,12.4,robo002_011+chaos
+673,neko002,Chocolate Missile,13.6,neko002_001+chaos
+674,neko002,Chocolate Missile <GLITCH>,14.8,neko002_001+glitch
+675,neko002,I can avoid it.#φωφ,13.2,neko002_002+chaos
+676,neko002,Pink Graduation,11,neko002_003+chaos
+677,neko002,一啖兩啖,11.8,neko002_004+chaos
+678,neko002,Mammal,13.8,neko002_005+chaos
+679,neko002,Mammal <GLITCH>,15,neko002_005+glitch
+680,neko002,Blah!!,13.8,neko002_006+chaos
+681,neko002,リラ,12.6,neko002_007+chaos
+682,neko002,Log In,12,neko002_008+chaos
+683,neko002,DJ Mashiro is dead or alive,14.2,neko002_009+chaos
+684,neko002,Re:incRnaTiØN ～夕焼ケ世界ノ決別ヲ～,16.2,neko002_010+chaos
+685,neko002,R.I.P.,14.4,neko002_011+chaos
+686,neko003,Is This Real Life?,13.6,neko003_001+chaos
+687,neko003,Is This Real Life? <GLITCH>,14.6,neko003_001+glitch
+688,neko003,LIT,12.6,neko003_002+chaos
+689,neko003,CYBERCAT,14.6,neko003_003+chaos
+690,neko003,All OK!!,12.8,neko003_004+chaos
+691,neko003,Starchaser,11.4,neko003_005+chaos
+692,neko003,Starchaser <GLITCH>,13,neko003_005+glitch
+693,neko003,COLORFUL☆SPRINKLES,14.4,neko003_006+chaos
+694,neko003,Heart Factorisation,14.8,neko003_007+chaos
+695,neko003,Heart Factorisation <GLITCH>,16,neko003_007+glitch
+696,neko003,Candy Cat,12,neko003_008+chaos
+697,neko003,Whatever You Wish,12.4,neko003_009+chaos
+698,neko003,blueade,12.8,neko003_010+chaos
