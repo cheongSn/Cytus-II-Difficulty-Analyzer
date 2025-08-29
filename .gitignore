@@ -4,3 +4,7 @@ CHAOS*
 ct2view*
 .vscode
 *.cytoidlevel
+*.png
+*__pycache__
+CytusIIDifficultyAnalyzer_alpha*
+*ipynb
