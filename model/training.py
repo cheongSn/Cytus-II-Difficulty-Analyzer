@@ -6,53 +6,41 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error, r2_score
 from chart_feature_extractor import getXYdata
 from utils import pad_display
+from feature_selection import feature_selection
 import numpy as np
 import pickle
 
+IS_DO_FEATURE_SELECTION = True
+IS_DO_FEATURE_SELECTION = False
 X, Y, feature_name, all_song_name = getXYdata(is_use_cache=True)
+model = XGBRegressor(n_estimators=100, learning_rate=0.1, random_state=42)
 
-is_use_candidate_feature = True
-# is_use_candidate_feature = False
-
-if is_use_candidate_feature:
-    candidate_feature = [
-        "burst_p90",
-        "page_space_p90_score",
-        "page_space_third_score",
-        "burst_song_avg",
-        "complex_beat_count",
-        "Drag-child",
-        "burst_LR_low_max",
-        "double_count",
-        "SONG_LENGTH",
-        "burst_endurance_8",
-        "CDrag-head",
-        "MAIN_BPM",
-        "burst_fifth",
-    ]
-
+if IS_DO_FEATURE_SELECTION:
+    selected_features, best_r2 = feature_selection(
+        X,
+        Y,
+        model,
+        feature_name,
+        tol=1e-3,  # 最小提升幅度
+    )
     feat2idx = {f: i for i, f in enumerate(feature_name)}
-    idxs = [feat2idx[feat] for feat in candidate_feature]
-    with open("candidate_feature_idx.pkl", "wb") as f:
+    idxs = [feat2idx[feat] for feat in selected_features]
+    with open("candidate_feature_idx_alpha.pkl", "wb") as f:
         pickle.dump(idxs, f)
-    X_subset = X[:, idxs]
-    X = X_subset
+    X = X[:, idxs]
+else:
+    with open("candidate_feature_idx_alpha.pkl", "wb") as f:
+        pickle.dump(list(range(len(feature_name))), f)
 
 # 1. 分割訓練與測試集
-used_data_size = None
-indices = np.arange(len(X[:used_data_size]))
+indices = np.arange(len(X))
 X_train, X_test, y_train, y_test, train_idx, test_idx = train_test_split(
     X, Y, indices, test_size=0.1, random_state=75
 )
-# X_train, X_test, y_train, y_test, train_idx, test_idx = train_test_split(
-#     X_subset, Y, indices, test_size=0.1, random_state=75
-# )
 
 print(f"Train size:{len(X_train)}")
 print(f"Test size:{len(X_test)}")
 
-# model = RandomForestRegressor(n_estimators=100, random_state=42)
-model = XGBRegressor(n_estimators=100, learning_rate=0.1, random_state=42)
 
 model.fit(X_train, y_train)
 

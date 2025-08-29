@@ -6,5 +6,4 @@ ct2view*
 *.cytoidlevel
 *.png
 *__pycache__
-CytusIIDifficultyAnalyzer_alpha*
-*ipynb
+*_alpha*
