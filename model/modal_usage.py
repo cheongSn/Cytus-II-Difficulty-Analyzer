@@ -4,9 +4,9 @@ import xgboost as xgb
 import pickle
 
 model = xgb.Booster()
-model.load_model("CytusIIDifficultyAnalyzer.json")
+model.load_model("CytusIIDifficultyAnalyzer_alpha.json")
 
-CHART_FILE_NAME = "delta.palette"
+CHART_FILE_NAME = "dive.astaroth2"
 IS_CYTOID = True
 # IS_CYTOID = False
 is_use_candidate_feature = True

@@ -1,30 +1,51 @@
 # Cytus-II-Difficulty-Analyzer
-Try to train a model to analyze Cytus II chart difficulty
+嘗試訓練Cytus II譜面難度自動標註的模型。訓練資料因版權問題不公開，有研究需求或建議請洽 Discord ID: error._.418
 
-- Get Cytus II Chart from [CT2View](https://github.com/KiattipoomR/ct2view)
+- Cytus II Chart from [CT2View](https://github.com/KiattipoomR/ct2view)
 - Difficulty by [Team CN:DC](https://www.bilibili.com/opus/801126523008450581)
 
+## Feature Extraction
+- 考慮click hold flick，把拍點分配給左右手
+- 考量單手處理兩個note的位移和時間，計算burst序列 (burst系列feature)
+- 加權統計每頁note數量 (page_space系列feature)
+- 土法煉鋼地統計複雜節奏出現次數 (complex_beat_count)
+
+## Future Work
+- 提高Feature可用性
+    - 用比較簡單的方式計算節奏複雜度
+    - 統計單頁拍點排列複雜度
+    - drag形狀造成的難度
+    - 把drag加入手續考慮 (建模一下手的移動方式懲罰以及drag換手懲罰，應該比較容易做到)
+- 直接使用譜面畫面來train模型
+    - chart priview generation
+    - 單曲譜面太少，但譜面頁數很多，page encoder可能可行
+    - page encoder loss = 單頁難度(額外標記?) + Contrastive Learning
+    - page encoder + LSTM or Transformer?
+- 擴充訓練集
+    - cytoid qualified system ?
+    - 難度精細度？
+    - Easy、Hard難度
+
 ## Best result
-XGBRegressor
-
-| Feature ID | 特徵名稱                     | 加入後平均 R² |
-| ---- | ------------------------ | -------- |
-| 1    | burst_p90              | 0.5997   |
-| 2    | page_space_p90_score   | 0.6951   |
-| 3    | page_space_third_score | 0.7278   |
-| 4    | burst_song_avg         | 0.7570   |
-| 5    | complex_beat_count     | 0.7808   |
-| 6    | Drag-child             | 0.8054   |
-| 7    | burst_LR_low_max       | 0.8167   |
-| 8    | double_count           | 0.8225   |
-| 9    | SONG_LENGTH            | 0.8284   |
-| 10   | burst_endurance_8      | 0.8362   |
-| 11   | CDrag-head             | 0.8383   |
-| 12   | MAIN_BPM               | 0.8397   |
-| 13   | burst_fifth            | 0.8434   |
-
-Train size: 578  
-Test size: 65  
+- XGBRegressor
+- Train size: 578  
+- Test size: 65 
+- TEST Mean Squared Error: 0.3162  
+- TEST R² Score: 0.8531
+- Feature selection
+    - burst_p90
+    - page_space_p90_score
+    - page_space_third_score
+    - burst_song_avg
+    - complex_beat_count
+    - Drag-child
+    - burst_LR_low_max
+    - double_count
+    - SONG_LENGTH
+    - burst_endurance_8
+    - CDrag-head
+    - MAIN_BPM
+    - burst_fifth
 
 | ID  | 曲名                                | 等級  | 預測   | 誤差   |
 |-----|------------------------------------|------|-------|-------|
@@ -94,5 +115,3 @@ Test size: 65
 | 201 | AXION                               | 13.0 | 14.00 | 1.00  |
 | 632 | LIT                                 | 12.6 | 14.19 | 1.59  |
 
-TEST Mean Squared Error: 0.3162  
-TEST R² Score: 0.8531
